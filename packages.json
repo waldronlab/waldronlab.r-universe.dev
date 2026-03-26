@@ -1,5 +1,9 @@
 [
   {
+    "package": "doppelgangR",
+    "url": "https://github.com/waldronlab/doppelgangR"
+  },
+  {
     "package": "MultiAssayExperiment",
     "url": "https://github.com/waldronlab/MultiAssayExperiment"
   },
@@ -8,27 +12,71 @@
     "url": "https://github.com/waldronlab/TCGAutils"
   },
   {
+    "package": "curatedMetagenomicData",
+    "url": "https://github.com/waldronlab/curatedMetagenomicData"
+  },
+  {
     "package": "curatedTCGAData",
     "url": "https://github.com/waldronlab/curatedTCGAData"
+  },
+  {
+    "package": "HMP16SData",
+    "url": "https://github.com/waldronlab/HMP16SData"
   },
   {
     "package": "cBioPortalData",
     "url": "https://github.com/waldronlab/cBioPortalData"
   },
   {
+    "package": "curatedOvarianData",
+    "url": "https://github.com/waldronlab/curatedOvarianData"
+  },
+  {
+    "package": "GSEABenchmarkeR",
+    "url": "https://github.com/waldronlab/GSEABenchmarkeR"
+  },
+  {
+    "package": "GSEABase",
+    "url": "https://github.com/waldronlab/GSEABase"
+  },
+  {
     "package": "SingleCellMultiModal",
     "url": "https://github.com/waldronlab/SingleCellMultiModal"
+  },
+  {
+    "package": "lefser",
+    "url": "https://github.com/waldronlab/lefser"
+  },
+  {
+    "package": "bugphyzz",
+    "url": "https://github.com/waldronlab/bugphyzz"
+  },
+  {
+    "package": "bugsigdbr",
+    "url": "https://github.com/waldronlab/bugsigdbr"
+  },
+  {
+    "package": "MicrobiomeBenchmarkData",
+    "url": "https://github.com/waldronlab/MicrobiomeBenchmarkData"
+  },
+  {
+    "package": "terraTCGAdata",
+    "url": "https://github.com/waldronlab/terraTCGAdata"
   },
   {
     "package": "TENxIO",
     "url": "https://github.com/waldronlab/TENxIO"
   },
   {
-    "package": "terraTCGAdata",
-    "url": "https://github.com/waldronlab/terraTCGAdata"
+    "package": "VisiumIO",
+    "url": "https://github.com/waldronlab/VisiumIO"
   },
-    {
-    "package": "MicrobiomeBenchmarkData",
-    "url": "https://github.com/waldronlab/MicrobiomeBenchmarkData"
+  {
+    "package": "bedbaser",
+    "url": "https://github.com/waldronlab/bedbaser"
+  },
+  {
+    "package": "XeniumIO",
+    "url": "https://github.com/waldronlab/XeniumIO"
   }
 ]
